@@ -7,4 +7,4 @@
 
 4 - activate the enviroment and then run the code 
 
-5 - tic-tac.py run in your terminal and you can play the game 
+5 - python file tic-tac.py run in your terminal and you can play the game 
