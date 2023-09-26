@@ -1,10 +1,16 @@
-# tic-tac-pygame-
-1 - this game is played between two players, either one can choose x and o 
+# tic-tac-pygame
 
-2 - png folder contains image of x and o you can replace if you want 
+![Tic-Tac-Pygame](screenshot.png)
 
-3 - before running the code you can install requirement file 
+1. This game is played between two players, and either one can choose 'X' and 'O'.
 
-4 - activate the enviroment and then run the code 
+2. The `png` folder contains images of 'X' and 'O', which you can replace if you want.
 
-5 - python file tic-tac.py run in your terminal and you can play the game 
+3. Before running the code, you can install the required packages using the `requirements.txt` file.
+
+4. Activate the environment by running the following command:
+
+source venv/bin/activate
+
+5. Run the Python file `tic-tac.py` in your terminal to start and play the game.
+
